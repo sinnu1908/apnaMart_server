@@ -95,11 +95,13 @@
         },
         "fabric": "Cotton",
         "length":"Half Sleeve"
-    }
+    },
   ],
   "womenWear":[
     {
-      
-    }
+      "id":1,
+      "name":"shri",
+      "age":"24"
+    },
   ]
 }
