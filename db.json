@@ -60,5 +60,24 @@
       "age": 20,
       "email": "cnorssister9@mayoclinic.com"
     }
+  ],
+  "mensWear":[
+    {
+      "id":1,
+       "image": "https://5.imimg.com/data5/ECOM/Default/2022/11/NV/HC/WK/156564966/5c2a1684-2-1000x1000.jpg",
+        "name": "Be Desi Men Cotton Star Butta Cuff Detail Kurta",
+        "brandName": "Navsari Trends LLP",
+        "totalPrice": 550,
+        "discount": 74,
+        "shippingDay": 1,
+        "color": "Stone Grey",
+        "size":"M",
+        "rating": {
+            "rated": 5,
+            "ratingNo": 1
+        },
+        "fabric": "Cotton",
+        "length":"Long Kurta - Knee Length"
+    }
   ]
 }
