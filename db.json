@@ -68,16 +68,33 @@
         "name": "Be Desi Men Cotton Star Butta Cuff Detail Kurta",
         "brandName": "Navsari Trends LLP",
         "totalPrice": 550,
-        "discount": 74,
+        "discount": 20,
         "shippingDay": 1,
         "color": "Stone Grey",
         "size":"M",
         "rating": {
             "rated": 5,
-            "ratingNo": 1
+            "ratingNo": 852
         },
         "fabric": "Cotton",
         "length":"Long Kurta - Knee Length"
+    },
+     {
+      "id":2,
+       "image": "https://5.imimg.com/data5/ECOM/Default/2022/3/CN/UQ/NH/52782818/vougewhitedarkblue-1000x1000.jpg",
+        "name": "Men's Half Sleeve Vouge Casual T-Shirt",
+        "brandName": "Cowboy Stores",
+        "totalPrice": 899,
+        "discount": 40,
+        "shippingDay": 1,
+        "color": "white-blue",
+        "size":"XL",
+        "rating": {
+            "rated": 4.5,
+            "ratingNo": 80
+        },
+        "fabric": "Cotton",
+        "length":"Half Sleeve"
     }
   ]
 }
