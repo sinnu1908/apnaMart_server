@@ -1,12 +1,15 @@
 {
   "name": "mock-server-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "mock server app",
+  "main": "server.js", 
   "scripts": {
-    "test": "node server.js" 
+    "start": "node server.js" 
   },
   "keywords": [],
   "author": "sinnu",
   "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
